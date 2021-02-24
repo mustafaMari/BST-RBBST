@@ -1,4 +1,3 @@
-package Class7;
 
 import java.util.Comparator;
 import java.util.LinkedList;
